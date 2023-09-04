@@ -45,6 +45,8 @@ Another interesting project was called: "Autonomous Curtains". There I had to ma
 
 ### Badges
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) 
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Vladislp"><img src="https://github-readme-stats.vercel.app/api?username=Vladislp&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vladislp's GitHub stats" /></a>
