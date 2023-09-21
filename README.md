@@ -13,7 +13,7 @@ Another interesting project was called: "Autonomous Curtains". There I had to ma
 *   🌍  I'm based in Tallinn
 *   🖥️  See my portfolio at [Turbo-Palm-Tree-Portfolio](http://vp-web-development-showcase.netlify.app/)
 *   ✉️  You can contact me at [vladpaskevits27@gmail.com](mailto:vladpaskevits27@gmail.com)
-*   🚀  I'm currently working on [Turbo-Palm-Tree-Portfolio](http://github.com/Vladislp/turbo-palm-tree-portfolio)
+*   🚀  I'm currently working on [Shipment Tracking System](https://github.com/Vladislp/Kuehne-Nagel-Task)
 *   🧠  I'm learning React.js for frontend development, RESTful API design using Node.js.
 *   🤝  I'm open to collaborating on Open-source projects related to web development, Projects involving React.js
 *   ⚡  I have passion for food...and cats, dogs. :)
